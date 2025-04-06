@@ -1,0 +1,2 @@
+# Mindgraph_Ai_Product_Description_Generator
+Generative AI based Product Description Generator
